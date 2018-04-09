@@ -29,7 +29,6 @@ def translate(func_list):
         func = func_list[fc]
         code = func[2]
         while i < len(code):
-            print(code)
             if code[i] in bf_chars:
                 i += 1
             elif code[i] == '{':
