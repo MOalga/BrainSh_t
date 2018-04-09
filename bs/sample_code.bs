@@ -1,0 +1,8 @@
+$set_0:
+    [-]
+$add'a:
+    {+}a
+$set_val'a:
+    /set_0/add'a
+$:
+    ++/set_val'51..+.
